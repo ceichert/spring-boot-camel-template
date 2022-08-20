@@ -1,4 +1,4 @@
-package it.eichert.springbootcameltemplate;
+package com.example.springbootcameltemplate;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -8,7 +8,7 @@
         <version>2.7.3</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>it.eichert</groupId>
+    <groupId>com.example</groupId>
     <artifactId>spring-boot-camel-template</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>spring-boot-camel-template</name>
